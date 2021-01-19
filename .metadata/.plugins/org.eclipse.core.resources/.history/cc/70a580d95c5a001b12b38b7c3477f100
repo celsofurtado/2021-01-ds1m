@@ -37,7 +37,7 @@ public class App {
 		System.out.println("**** O saldo da conta é " + saldoDaConta);
 		
 		// *** Conta do João
-		contaDoJoao.setTipo("Corrente");
+		contaDoJoao.tipo = "Abóbora";
 		
 		
 	}
